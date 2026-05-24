@@ -1,13 +1,11 @@
- Hey there 👋
+# Hey there 👋
 
-I’m **Yahia Achouri**, a software engineering student based in **Tunisia** 🇹🇳
+I’m **Yahia Achouri**, an AI/ML-focused software engineering student based in **Tunisia** 🇹🇳
 
-I enjoy building useful things at the intersection of **AI**, **backend systems**, and **connected devices** 🤖 I like working end to end — from ideas and models to APIs and system design — and keeping things clean, simple, and scalable.
+I enjoy building intelligent systems that combine **machine learning**, **backend engineering**, and scalable infrastructure 🤖 Most of my work revolves around designing AI-powered applications end to end — from data processing and model experimentation to APIs, deployment, and system architecture.
 
-My main interests revolve around **applied AI (Computer Vision)**, **backend engineering**, and **smart systems / IoT** 🌐 I’m especially curious about how systems work under the hood and how different pieces fit together.
+My main interests include **applied AI**, **LLM applications**, **computer vision**, **MLOps**, and production-oriented AI systems ⚡ I’m especially interested in how AI models interact with real-world software systems and how to make them reliable, efficient, and scalable.
 
-I spend most of my time working with Python, Java, C/C++, and JavaScript, and building systems using FastAPI, Spring Boot, React, Redis, Docker, and Linux 🛠️
+Beyond writing code, I enjoy understanding how systems work under the hood, improving architectures, optimizing performance, and continuously learning new technologies.
 
-I’m drawn to technology with real-world impact and to problems that require both technical depth and good system thinking ⚙️
-
-When I’m not coding, I’m usually learning something new, refining an idea, or thinking about better system designs ✨
+Currently seeking remote opportunities, internships, and collaborations where I can grow as an AI/ML engineer, contribute to meaningful products, and learn from strong engineering teams ✨
